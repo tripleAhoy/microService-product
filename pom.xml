@@ -33,6 +33,7 @@
         <module>inventory_service</module>
         <module>discovery-server1</module>
         <module>api-gateway</module>
+        <module>notification-service</module>
     </modules>
 
     <properties>

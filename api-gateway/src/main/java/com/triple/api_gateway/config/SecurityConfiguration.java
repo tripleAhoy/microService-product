@@ -1,4 +1,4 @@
-package com.triple.config;
+package com.triple.api_gateway.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

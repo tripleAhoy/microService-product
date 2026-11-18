@@ -1,4 +1,4 @@
-package com.triple.config;
+package com.triple.discovery_server.config;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.context.annotation.Bean;
